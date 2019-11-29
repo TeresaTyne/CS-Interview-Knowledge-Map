@@ -6,69 +6,49 @@
 
 <h4 align="center">这是一份能让你更好准备下一次面试的图谱</h4>
 
-<p align="center">
-  <a href="https://gitter.im/interview-map/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img src="https://img.shields.io/gitter/room/nwjs/nw.js.svg" alt="Gitter"></a>
-  <a href="https://t.me/joinchat/GULTjw9enq3J4NQ6Yh5Ntw"><img src="https://img.shields.io/badge/chat-Telegram-brightgreen.svg" alt="Telegram"></a>
-</p>
-
 [English Version](./README-EN.md)
-
-## 前言
-
-> 当你老了，回顾一生，就会发觉：什么时候出国读书，什么时候决定做第一份职业，何时选定对象而恋爱，什么时候结婚，其实都是命运的巨变。只是当时站在三岔路口，眼见风云千樯，你做出选择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。
->
-> 一个改变面试的项目 -- 面试图谱。
-
-金九银十的秋招季近在眼前，想必大家也都心痒难耐，准备挑战更好的工作机会。那么，面试肯定是最大的挑战。
-
-对于面试来说，平时的积累肯定是必须的，但是在面试前的准备也是至关重要的。
-
-在几月前我个人组建了一个小团队，花了将近半年的时间寻找大厂的面试题，筛选出了近百个知识点然后成文，并全部翻译为英文。今天，终于开源出了第一个版本，目前总字数已高达 10 余万字。
-
-我们认为，一味的背面试题是没多大作用的。只有熟悉了各个知识点并融会贯通，才能在面试中披荆斩棘。本图谱目前包含了近百个高频知识点，无论是面试前的准备还是平时学习中的查漏补缺，我们相信肯定能帮助到大家。目前内容包含了 JS、网络、浏览器相关、性能优化、安全、框架、Git、数据结构、算法等内容，无论是基础还是进阶，亦或是源码解读，你都能在本图谱中得到满意的答案，希望这个面试图谱能够帮助到大家更好的准备面试。
-
-该仓库内容会持续更新，后期将会包含更多的内容，比如：系统设计、区块链、运维、后端等等，当然这些不是我的强项，我会邀请这方面有不错经验的朋友来书写内容。
-
-## 大纲
-
-![mind](./InterviewMapMind.png)
-
-## 求职
-
-目前作者正在寻找工作机会，如果你有杭州前端岗位的内推，欢迎和我联系 zx597813039@gmail.com
-
-## 面试咨询
-
-如果你对于如何书写简历或者如何在面试中更好的的回答有疑虑，我们也提供付费服务，有意可咨询微信（597813039）
-
-## 贡献
-
-如果你发现知识点内容有出错或者代码有 Bug，欢迎你提交英文 [issue](https://github.com/KieSun/Front-End-Interview-Map/issues/new)，如果你英文不好的话，请在 [该 issue](https://github.com/KieSun/InterviewMap/issues/18) 中讨论
-
-如果你认为有一个不错的知识点或者也想参与翻译校对，欢迎提交 [PR](https://github.com/KieSun/Front-End-Interview-Map/pulls)，或者也可以联系我 <zx597813039@gmail.com>
-
-## Todo
-
-- 完成 CSS 内容
-- 完成 Webapck 内容
-- 完成小程序相关内容
-- 完善关于框架的内容
-
-以上内容预计将于 9 月份更新完毕，欢迎你一起参与本图谱的建设。
 
 ## 阅读
 
 [线上版本阅读更清晰](https://yuchengkai.cn/docs/zh/)
 
-## 捐赠
+## 公众号
 
-如果你觉得项目内容帮助到了你，你可以请我喝杯咖啡
+觉得内容有帮助可以关注下我的公众号 「前端真好玩」咯，会有很多好东西等着你。
 
-![](https://user-gold-cdn.xitu.io/2018/7/13/164945d3f5934d89?w=200&h=300&f=jpeg&s=19516)  ![](https://user-gold-cdn.xitu.io/2018/7/13/164945d486a6e1b9?w=200&h=271&f=jpeg&s=18202)
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-042716.jpg)
 
-## 交流分享
+## 小册
 
-如果你想与他人交流关于本图谱的内容，可以加入 [交流群](https://github.com/KieSun/InterviewMap/issues/19) 或者 [gitter 聊天室](https://gitter.im/interview-map/Lobby)，请务必使用英文交流，谢谢。
+很荣幸在「掘金」平台发售了这个开源项目的进阶版面试小册「前端面试之道」。
+
+<p align="center">
+  <img src='https://user-gold-cdn.xitu.io/2018/12/25/167e354c41bbe3ef?w=750&h=1334&f=jpeg&s=110064' width='400' />
+</p>
+
+如果需要用一句话来介绍这本小册的话，「**一年磨一剑**」应该是最好的答案了。
+
+为什么这样说呢？在出小册之前，我花了半年的时间做了一个这个开源项目。在半年的时间里，我收集了大量的一线大厂面试题，通过大数据统计出了近百个常考知识点，然后根据这些知识点写成了**近十万字**的内容。
+
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-042717.png)
+
+这本小册是基于本开源项目重新写的一份前端面试书籍（目前已经写作三个月，预计成品需要五个月），对原本的内容进行了大幅度的优化，并且新增了很多新的内容。这本小册可以说是一线互联网大厂的面试精华总结，同时还包含了如何写简历和面试技巧的内容，能够帮助你省时省力地准备面试，让找工作不再是一个难题。
+
+当然小册面向的群体不单单是求职者，同时也适合初级进阶，中级查漏补缺。如果你是一名面试官的话，说不定这本小册也能给你带来一些灵感。
+
+面试是每个程序员都绕不开的坎，虽然这本小册不能帮你一夜之间技术一蹴而就，但是如果你能**细细阅读**的话，绝对能让你醍醐灌顶。
+
+如果你对于内容不放心的话，可以看一下这两位业内大佬的评价，他们都是仔细读过小册后才给出的一个推荐。
+
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-042719.png)
+
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-042722.png)
+
+## 贡献
+
+如果你发现知识点内容有出错或者代码有 Bug，欢迎你提交英文 [issue](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/issues/new)，如果你英文不好的话，请在 [该 issue](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/issues/18) 中讨论
+
+如果你认为有一个不错的知识点或者也想参与翻译校对，欢迎提交 [PR](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/pulls)，或者也可以联系我 <zx597813039@gmail.com>
 
 ## 协议
 
